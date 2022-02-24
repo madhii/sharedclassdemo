@@ -1,3 +1,4 @@
+package com.hexa.SharedLibrary;
 pipeline {
     agent any
     stages {
