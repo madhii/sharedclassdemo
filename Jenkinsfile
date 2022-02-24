@@ -1,3 +1,3 @@
 @Library("demo_class") _
-import com.hexaSharedLibrary
+import com.hexa.SharedLibrary
 new SharedLibrary(steps).startBuild()
